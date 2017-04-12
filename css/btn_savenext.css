@@ -1,0 +1,49 @@
+
+.btn-SaveNext { 
+    width:8em;
+    height: 2.6em;
+    color: #ffffff; 
+    background-color: #F05209; 
+    border-color: #AD6A45; 
+    border-radius: 5px;
+} 
+         
+.btn-SaveNext:hover, 
+.btn-SaveNext:focus, 
+.btn-SaveNext:active, 
+.btn-SaveNext.active, 
+.open .dropdown-toggle.btn-SaveNext { 
+  color: #ffffff; 
+  background-color: #F27C22; 
+  border-color: #AD6A45; 
+} 
+ 
+.btn-SaveNext:active, 
+.btn-SaveNext.active, 
+.open .dropdown-toggle.btn-SaveNext { 
+  background-image: none; 
+} 
+ 
+.btn-SaveNext.disabled, 
+.btn-SaveNext[disabled], 
+fieldset[disabled] .btn-SaveNext, 
+.btn-SaveNext.disabled:hover, 
+.btn-SaveNext[disabled]:hover, 
+fieldset[disabled] .btn-SaveNext:hover, 
+.btn-SaveNext.disabled:focus, 
+.btn-SaveNext[disabled]:focus, 
+fieldset[disabled] .btn-SaveNext:focus, 
+.btn-SaveNext.disabled:active, 
+.btn-SaveNext[disabled]:active, 
+fieldset[disabled] .btn-SaveNext:active, 
+.btn-SaveNext.disabled.active, 
+.btn-SaveNext[disabled].active, 
+fieldset[disabled] .btn-SaveNext.active { 
+  background-color: #F05209; 
+  border-color: #AD6A45; 
+} 
+ 
+.btn-SaveNext .badge { 
+  color: #F05209; 
+  background-color: #ffffff; 
+}
